@@ -16,6 +16,9 @@ The 8-bit CPU is a minimalistic design that focuses on performing addition opera
    - The control unit automates the process, handling the sequence of operations without manual intervention.
    - It manages the instruction fetch, addition operation, and result storage in the output register.
 
+![control_unit_1](https://github.com/user-attachments/assets/4e9c2556-df41-43fa-bbb8-aec61656d349)
+![control_unit_2](https://github.com/user-attachments/assets/d5b6b048-6f0a-440c-8a97-7534c85efb08)
+
 ### 2. Program Counter (PC)
    - Keeps track of the current instruction address in memory, enabling sequential instruction execution.
 
