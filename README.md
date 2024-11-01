@@ -77,4 +77,4 @@ The 8-bit CPU is a minimalistic design that focuses on performing addition opera
 
 ## Contributing
 
-Feel free to open issues, suggest improvements, or contribute to the code. Your feedback and contributions are welcome!
+Feel free to open issues, suggest improvements, or contribute to the design. Your feedback and contributions are welcome!
