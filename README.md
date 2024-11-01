@@ -16,9 +16,6 @@ The 8-bit CPU is a minimalistic design that focuses on performing addition opera
    - The control unit automates the process, handling the sequence of operations without manual intervention.
    - It manages the instruction fetch, addition operation, and result storage in the output register.
 
-![control_unit_1](https://github.com/user-attachments/assets/4e9c2556-df41-43fa-bbb8-aec61656d349)
-![control_unit_2](https://github.com/user-attachments/assets/d5b6b048-6f0a-440c-8a97-7534c85efb08)
-
 ### 2. Program Counter (PC)
    - Keeps track of the current instruction address in memory, enabling sequential instruction execution.
 
@@ -29,9 +26,11 @@ The 8-bit CPU is a minimalistic design that focuses on performing addition opera
    - These registers hold the operands for the addition operation.
    - Register A and Register B are fed into the Arithmetic Logic Unit (ALU) for computation.
 
+
 ### 5. Arithmetic Logic Unit (ALU)
    - Responsible for performing the addition operation.
    - Outputs the sum of the values in Register A and Register B.
+
 
 ### 6. Output Register (OP REG)
    - Stores the result of the addition operation for further processing or display.
@@ -51,6 +50,8 @@ The 8-bit CPU is a minimalistic design that focuses on performing addition opera
 2. **Add**: The CPU reads values from Register A and Register B and performs addition via the ALU.
 3. **Store**: The result of the addition is stored in the OP REG.
 4. **Display**: The value in the OP REG is sent through a decimal decoder and displayed on the 7-segment display.
+
+![main_cpu](https://github.com/user-attachments/assets/d2972ff4-00bf-449c-9383-3465ab3eee68)
 
 ## Key Specifications
 
