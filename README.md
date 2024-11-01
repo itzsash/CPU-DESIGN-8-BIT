@@ -77,9 +77,10 @@ The 8-bit CPU is a minimalistic design that focuses on performing addition opera
 ## Getting Started
 
 1. Open the CPU.circ file in Logisim.
-2. Enable Simulation and set the tick frequency to 1Khz
-3. Observe the Simulation to see the fetch, add, store, and display sequence.
-4. The result of the addition operation will appear on the 7-segment display.
+2. Load the RAM with mem_data every time before you run the simulation.
+3. Enable simulation and set the tick frequency to 1Khz
+4. Observe the simulation to see the fetch, add, store, and display sequence.
+5. The result of the addition operation will appear on the 7-segment display.
 
 ![Screenshot 2024-11-01 154529](https://github.com/user-attachments/assets/98cc3399-ae6a-4303-a633-060b1b4647e8)
 
