@@ -1,5 +1,7 @@
 # 8-Bit CPU Design in Logisim
 
+![connections-between-the-processor-and-the-mm](https://github.com/user-attachments/assets/664d3a83-108a-4f37-baba-f4a18afc85f9)
+
 This repository contains the design of a simple 8-bit CPU created using Logisim. The CPU is designed to perform basic arithmetic operations, specifically adding two numbers and storing the result. This project demonstrates core principles of CPU design, including instruction fetch, addition, result storage, and output display on a 7-segment display.
 
 ## Overview
